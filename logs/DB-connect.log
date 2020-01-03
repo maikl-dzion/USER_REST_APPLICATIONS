@@ -1,0 +1,22 @@
+[Fri Jan 03 18:54:11 2020] Array
+(
+    [0] => /home/b/bolderp5/shop1.bolderp5.bget.ru/public_html/USER_REST_APPLICATIONS/classes/Core/DB.php
+    [1] => 31
+    [2] => SQLSTATE[08006] [7] could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/run/postgresql/.s.PGSQL.5432"?
+    [3] => 7
+    [4] => DB_connect_39
+)
+
+[2020-01-03 18:59:30] Array
+(
+    [0] => /home/b/bolderp5/shop1.bolderp5.bget.ru/public_html/USER_REST_APPLICATIONS/classes/Core/DB.php
+    [1] => 31
+    [2] => SQLSTATE[08006] [7] could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/run/postgresql/.s.PGSQL.5432"?
+    [3] => 7
+    [4] => DB_connect_39
+)
+
